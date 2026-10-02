@@ -79,7 +79,7 @@ The project was refined through multiple iterations, incorporating stakeholder f
 
 El siguiente Story Map representa la visión funcional del producto, organizando actividades principales, tareas de usuario y releases evolutivos.
 
-artifacts/StoryMap_VirtualLearningPlatform.png
+![Storyts/StoryMap_VirtualLearningPlatform.png
 ---
 
 ## Technologies & Methodologies
