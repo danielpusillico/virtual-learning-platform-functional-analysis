@@ -75,11 +75,7 @@ The project was refined through multiple iterations, incorporating stakeholder f
 ✅ Risk Analysis
 
 ---
-## Story Mapping
-
-El siguiente Story Map representa la visión funcional del producto, organizando actividades principales, tareas de usuario y releases evolutivos.
-
-![Storyts/StoryMap_VirtualLearningPlatform.png
+artifacts/StoryMap_VirtualLearningPlatform.png
 ---
 
 ## Technologies & Methodologies
